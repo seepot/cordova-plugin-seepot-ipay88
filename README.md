@@ -71,4 +71,4 @@ cloudSky.iPay88.requery(
       },function(err){
         Alert(JSON.stringify(err), 'Operation failed');
 });
-```
+```"# cordova-plugin-seepot-ipay88" 
